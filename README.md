@@ -1,9 +1,9 @@
-sklearn e2e dataScience
+Live Served Sentiment Analysis Model + Model Tracking 👷👷👷
 ==============================
 
 An end to end data science project utilizing MLFlow for experimentation and saving of model artefacts etc.
 
-Project Organization
+Project Organization (Thanks to Cookie Cutter Data Science)
 ------------
 
     ├── LICENSE
